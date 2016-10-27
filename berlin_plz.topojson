@@ -16,6 +16,50 @@
                 ]
             }, {
                 "type": "Polygon",
+                "id": "10117",
+                "properties": {
+                    "name": "Unter den Linden",
+                    "district": "Mitte",
+                    "randomRent": 5.63
+                },
+                "arcs": [
+                    [8, 9, 10, 11, 12, 13, -6]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10119",
+                "properties": {
+                    "name": "Rosenthaler Platz",
+                    "district": "Mitte",
+                    "randomRent": 9.4
+                },
+                "arcs": [
+                    [14, 15, 16, -4]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10178",
+                "properties": {
+                    "name": "Hackescher Markt",
+                    "district": "Mitte",
+                    "randomRent": 14.13
+                },
+                "arcs": [
+                    [17, 18, 19, 20, -9, -5, -17]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10179",
+                "properties": {
+                    "name": "Jannowitzbrücke",
+                    "district": "Mitte",
+                    "randomRent": 7.59
+                },
+                "arcs": [
+                    [21, 22, 23, 24, -10, -21]
+                ]
+            }, {
+                "type": "Polygon",
                 "id": "10243",
                 "properties": {
                     "name": "Ostbahnhof",
@@ -60,17 +104,6 @@
                 ]
             }, {
                 "type": "Polygon",
-                "id": "10315",
-                "properties": {
-                    "name": "Friedrichsfelde Nord",
-                    "district": "Lichtenberg",
-                    "randomRent": 13.28
-                },
-                "arcs": [
-                    [41, 42, 43, 44, 45]
-                ]
-            }, {
-                "type": "Polygon",
                 "id": "10317",
                 "properties": {
                     "name": "Rummelsburg",
@@ -80,51 +113,7 @@
                 "arcs": [
                     [46, -46, 47, 48, 49, 50, 51, -31, -37]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "10318",
-                "properties": {
-                    "name": "Karlshorst",
-                    "district": "Lichtenberg",
-                    "randomRent": 7.95
-                },
-                "arcs": [
-                    [52, 53, 54, 55, -49]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10319",
-                "properties": {
-                    "name": "Friedrichsfelde Süd",
-                    "district": "Lichtenberg",
-                    "randomRent": 12.46
-                },
-                "arcs": [
-                    [56, -53, -48, -45]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10365",
-                "properties": {
-                    "name": "Siegfriedstraße",
-                    "district": "Lichtenberg",
-                    "randomRent": 6.81
-                },
-                "arcs": [
-                    [57, 58, -42, -47, -36, 59]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10367",
-                "properties": {
-                    "name": "Stadtpark",
-                    "district": "Lichtenberg",
-                    "randomRent": 13.66
-                },
-                "arcs": [
-                    [60, -60, -35, 61]
-                ]
-            }, {
+            }}, {
                 "type": "Polygon",
                 "id": "10369",
                 "properties": {
@@ -203,39 +192,6 @@
                 ]
             }, {
                 "type": "Polygon",
-                "id": "10551",
-                "properties": {
-                    "name": "Birkenstraße",
-                    "district": "Mitte",
-                    "randomRent": 6.93
-                },
-                "arcs": [
-                    [84, 85, 86, 87]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10553",
-                "properties": {
-                    "name": "Beusselstraße",
-                    "district": "Mitte",
-                    "randomRent": 10.72
-                },
-                "arcs": [
-                    [88, 89, -88, 90, 91, 92]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10555",
-                "properties": {
-                    "name": "Alt-Moabit West",
-                    "district": "Mitte",
-                    "randomRent": 14.87
-                },
-                "arcs": [
-                    [93, 94, 95, -91, -87]
-                ]
-            }, {
-                "type": "Polygon",
                 "id": "10557",
                 "properties": {
                     "name": "Moabit Südost",
@@ -245,51 +201,7 @@
                 "arcs": [
                     [96, -7, -14, 97, 98, -95, 99]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "10559",
-                "properties": {
-                    "name": "Stephanstraße",
-                    "district": "Mitte",
-                    "randomRent": 11.48
-                },
-                "arcs": [
-                    [100, -100, -94, -86]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10585",
-                "properties": {
-                    "name": "Deutsche Oper",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 7.01
-                },
-                "arcs": [
-                    [101, 102, 103, 104]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10587",
-                "properties": {
-                    "name": "TU/Otto-Suhr-Allee",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 13.65
-                },
-                "arcs": [
-                    [-96, 105, 106, -102, 107, 108, -92]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10589",
-                "properties": {
-                    "name": "Mierendorffplatz",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 9.87
-                },
-                "arcs": [
-                    [109, -93, -109, 110]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "10623",
                 "properties": {
@@ -300,40 +212,7 @@
                 "arcs": [
                     [111, 112, 113, 114, 115, -106]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "10625",
-                "properties": {
-                    "name": "Karl-August-Platz",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 9.43
-                },
-                "arcs": [
-                    [-116, 116, 117, -103, -107]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10627",
-                "properties": {
-                    "name": "Westliche Kantstraße",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 11.99
-                },
-                "arcs": [
-                    [-118, 118, 119, -104]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10629",
-                "properties": {
-                    "name": "Sybelstraße",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 8.62
-                },
-                "arcs": [
-                    [-115, 120, 121, 122, 123, -119, -117]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "10707",
                 "properties": {
@@ -344,62 +223,7 @@
                 "arcs": [
                     [124, 125, 126, -121]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "10709",
-                "properties": {
-                    "name": "Hochmeisterplatz",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 14.95
-                },
-                "arcs": [
-                    [-127, 127, 128, 129, -122]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10711",
-                "properties": {
-                    "name": "Bahnhof Halensee",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 14.63
-                },
-                "arcs": [
-                    [-130, 130, 131, -123]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10713",
-                "properties": {
-                    "name": "Volkspark-West",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 6.41
-                },
-                "arcs": [
-                    [132, 133, 134, 135, -128, -126]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10715",
-                "properties": {
-                    "name": "Volkspark-Ost",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 11.01
-                },
-                "arcs": [
-                    [136, 137, 138, 139, -134]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10717",
-                "properties": {
-                    "name": "Güntzelstraße",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 12.84
-                },
-                "arcs": [
-                    [140, 141, -137, -133, 142]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "10719",
                 "properties": {
@@ -420,17 +244,6 @@
                 },
                 "arcs": [
                     [145, 146, 147, 148, -141, -145, 149]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10779",
-                "properties": {
-                    "name": "Bayerischer Platz",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 8.86
-                },
-                "arcs": [
-                    [150, 151, -142, -149]
                 ]
             }, {
                 "type": "Polygon",
@@ -475,39 +288,6 @@
                 },
                 "arcs": [
                     [-161, -155, -146, 161, -112, -99]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10789",
-                "properties": {
-                    "name": "Tauentzienstraße",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 9.92
-                },
-                "arcs": [
-                    [-162, -150, -144, -113]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10823",
-                "properties": {
-                    "name": "Alt-Schöneberg",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 12.9
-                },
-                "arcs": [
-                    [162, 163, -154, -159]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10825",
-                "properties": {
-                    "name": "Rathaus Schöneberg",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 6.62
-                },
-                "arcs": [
-                    [-164, 164, 165, -138, -152]
                 ]
             }, {
                 "type": "Polygon",
@@ -663,40 +443,7 @@
                 "arcs": [
                     [203, 204, 205, 206, 207, 208, -202]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "12053",
-                "properties": {
-                    "name": "Rollbergstraße",
-                    "district": "Neukölln",
-                    "randomRent": 14.65
-                },
-                "arcs": [
-                    [-204, -201, -198]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12055",
-                "properties": {
-                    "name": "Richardplatz",
-                    "district": "Neukölln",
-                    "randomRent": 9.06
-                },
-                "arcs": [
-                    [209, 210, -205, -197]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12057",
-                "properties": {
-                    "name": "Sonnenallee Süd",
-                    "district": "Neukölln",
-                    "randomRent": 13.49
-                },
-                "arcs": [
-                    [211, 212, 213, 214, -206, -211]
-                ]
-            }, {
+            },{
                 "type": "Polygon",
                 "id": "12059",
                 "properties": {
@@ -707,18 +454,7 @@
                 "arcs": [
                     [215, -212, -210, -196, -199]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "12099",
-                "properties": {
-                    "name": "Tempelhof-Ost",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 12.19
-                },
-                "arcs": [
-                    [216, -208, 217, 218, 219, 220]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "12101",
                 "properties": {
@@ -740,73 +476,7 @@
                 "arcs": [
                     [-221, 222, 223, -171, -222]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "12105",
-                "properties": {
-                    "name": "Mariendorf-West",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 9.22
-                },
-                "arcs": [
-                    [-220, 224, 225, 226, -223]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12107",
-                "properties": {
-                    "name": "Alt-Mariendorf",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 12.82
-                },
-                "arcs": [
-                    [227, 228, 229, 230, 231, 232, -226]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12109",
-                "properties": {
-                    "name": "Rixdorfer Straße",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 6.76
-                },
-                "arcs": [
-                    [233, -228, -225, -219]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12157",
-                "properties": {
-                    "name": "Grazer Damm",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 11.36
-                },
-                "arcs": [
-                    [-224, 234, 235, 236, 237, -172]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12159",
-                "properties": {
-                    "name": "Breslauer Platz",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 12.83
-                },
-                "arcs": [
-                    [-168, -173, -238, 238, -139, -166]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12161",
-                "properties": {
-                    "name": "Friedrich-Wilhelm-Platz",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 6.88
-                },
-                "arcs": [
-                    [-239, -237, 239, 240, -140]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "12163",
                 "properties": {
@@ -816,193 +486,6 @@
                 },
                 "arcs": [
                     [241, -240, -236, 242, 243, 244]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12165",
-                "properties": {
-                    "name": "Fichtenberg",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 8.25
-                },
-                "arcs": [
-                    [245, 246, 247, -244]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12167",
-                "properties": {
-                    "name": "Stadtpark",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 14.39
-                },
-                "arcs": [
-                    [248, 249, 250, -246]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12169",
-                "properties": {
-                    "name": "Albrecht-/Bergstraße",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 5.05
-                },
-                "arcs": [
-                    [-227, 251, -249, -243, -235]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12203",
-                "properties": {
-                    "name": "Unter den Eichen",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 6.58
-                },
-                "arcs": [
-                    [-251, 252, 253, 254, -247]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12205",
-                "properties": {
-                    "name": "Lichterfelde-West",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 6.72
-                },
-                "arcs": [
-                    [255, -254, 256, 257, 258]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12207",
-                "properties": {
-                    "name": "Ostpreußendamm",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 14.55
-                },
-                "arcs": [
-                    [259, 260, 261, 262, -257, -253]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12209",
-                "properties": {
-                    "name": "Lichterfelde-Südost",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 8.33
-                },
-                "arcs": [
-                    [263, 264, 265, 266, -261]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12247",
-                "properties": {
-                    "name": "Lankwitz-Nord",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 7.77
-                },
-                "arcs": [
-                    [-233, 267, -264, -260, -250, -252]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12249",
-                "properties": {
-                    "name": "Lankwitz-Süd",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 12.51
-                },
-                "arcs": [
-                    [268, 269, -265, -268, -232]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12277",
-                "properties": {
-                    "name": "Alt-Marienfelde",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 14.3
-                },
-                "arcs": [
-                    [-231, 270, 271, 272, 273, -269]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12279",
-                "properties": {
-                    "name": "Marienfelde-West",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 7.64
-                },
-                "arcs": [
-                    [-274, 274, -266, -270]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12305",
-                "properties": {
-                    "name": "Lichtenrade-Nordost",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 9.58
-                },
-                "arcs": [
-                    [275, 276, 277, -271, -230]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12307",
-                "properties": {
-                    "name": "Lichtenrade-West ",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 10.34
-                },
-                "arcs": [
-                    [278, 279, -272, -278]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12309",
-                "properties": {
-                    "name": "Lichtenrade-Südost",
-                    "district": "Tempelhof-Schöneberg",
-                    "randomRent": 11.53
-                },
-                "arcs": [
-                    [280, 281, -279, -277]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12347",
-                "properties": {
-                    "name": "Britz-West",
-                    "district": "Neukölln",
-                    "randomRent": 6.27
-                },
-                "arcs": [
-                    [282, 283, -234, -218, -207]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12349",
-                "properties": {
-                    "name": "Buckow-West",
-                    "district": "Neukölln",
-                    "randomRent": 8.85
-                },
-                "arcs": [
-                    [284, 285, 286, 287, -281, -276, -229, -284]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12351",
-                "properties": {
-                    "name": "Johannisthaler Chaussee",
-                    "district": "Neukölln",
-                    "randomRent": 11.45
-                },
-                "arcs": [
-                    [288, 289, 290, -286]
                 ]
             }, {
                 "type": "Polygon",
@@ -1017,39 +500,6 @@
                 ]
             }, {
                 "type": "Polygon",
-                "id": "12355",
-                "properties": {
-                    "name": "Rudow-Süd",
-                    "district": "Neukölln",
-                    "randomRent": 10.11
-                },
-                "arcs": [
-                    [294, 295, 296, -293]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12357",
-                "properties": {
-                    "name": "Rudow-Ost",
-                    "district": "Neukölln",
-                    "randomRent": 12
-                },
-                "arcs": [
-                    [297, 298, 299, -295, -292, -290]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12359",
-                "properties": {
-                    "name": "Buschkrugallee",
-                    "district": "Neukölln",
-                    "randomRent": 6.32
-                },
-                "arcs": [
-                    [300, -298, -289, -285, -283, -215]
-                ]
-            }, {
-                "type": "Polygon",
                 "id": "12435",
                 "properties": {
                     "name": "Treptower Park",
@@ -1058,446 +508,6 @@
                 },
                 "arcs": [
                     [-32, -52, 301, -213, -216, -191, -189]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12437",
-                "properties": {
-                    "name": "Baumschulenweg",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 11.09
-                },
-                "arcs": [
-                    [302, 303, 304, -301, -214, -302, -51]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12439",
-                "properties": {
-                    "name": "Niederschöneweide",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 10.4
-                },
-                "arcs": [
-                    [305, 306, 307, 308, -304]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12459",
-                "properties": {
-                    "name": "Oberschöneweide",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 14.73
-                },
-                "arcs": [
-                    [-56, 309, 310, -306, -303, -50]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12487",
-                "properties": {
-                    "name": "Johannisthal",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 9.02
-                },
-                "arcs": [
-                    [311, -299, -305, -309]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12489",
-                "properties": {
-                    "name": "Adlershof",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 14.57
-                },
-                "arcs": [
-                    [312, 313, 314, -312, -308]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12524",
-                "properties": {
-                    "name": "Altglienicke",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 7.83
-                },
-                "arcs": [
-                    [315, 316, 317, -296, -300, -315]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12526",
-                "properties": {
-                    "name": "Bohnsdorf",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 14.26
-                },
-                "arcs": [
-                    [318, 319, -317]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12527",
-                "properties": {
-                    "name": "Grünau",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 8.15
-                },
-                "arcs": [
-                    [320, 321, 322, 323, -319, -316, -314]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12555",
-                "properties": {
-                    "name": "Köpenick",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 11.59
-                },
-                "arcs": [
-                    [324, 325, 326, 327, 328, -310, -55, 329]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12557",
-                "properties": {
-                    "name": "Wendenschloß",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 6.08
-                },
-                "arcs": [
-                    [-329, 330, -321, -313, -307, -311]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12559",
-                "properties": {
-                    "name": "Müggelheim",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 12.71
-                },
-                "arcs": [
-                    [331, 332, -322, -331, -328]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12587",
-                "properties": {
-                    "name": "Friedrichshagen",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 7.68
-                },
-                "arcs": [
-                    [333, -332, -327, 334, 335]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12589",
-                "properties": {
-                    "name": "Rahnsdorf",
-                    "district": "Treptow-Köpenick",
-                    "randomRent": 5.15
-                },
-                "arcs": [
-                    [336, -323, -333, -334]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12619",
-                "properties": {
-                    "name": "Kaulsdorf-Nord",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 6.75
-                },
-                "arcs": [
-                    [337, 338, 339, 340]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12621",
-                "properties": {
-                    "name": "Kaulsdorf",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 7.1
-                },
-                "arcs": [
-                    [341, 342, -325, 343, -340]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12623",
-                "properties": {
-                    "name": "Mahlsdorf",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 14.14
-                },
-                "arcs": [
-                    [344, 345, -335, -326, -343]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12627",
-                "properties": {
-                    "name": "Hellersdorf-Nord",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 10.49
-                },
-                "arcs": [
-                    [346, -345, -342, -339, 347]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12629",
-                "properties": {
-                    "name": "Cottbusser Platz",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 14.04
-                },
-                "arcs": [
-                    [348, -348, -338, 349]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12679",
-                "properties": {
-                    "name": "Raoul-Wallenberg-Straße",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 6.56
-                },
-                "arcs": [
-                    [350, 351, 352, 353, 354]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12681",
-                "properties": {
-                    "name": "Bitterfelder Straße",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 9.11
-                },
-                "arcs": [
-                    [355, 356, -354, 357, 358, -43, -59, 359, 360]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12683",
-                "properties": {
-                    "name": "Biesdorf",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 6.93
-                },
-                "arcs": [
-                    [361, -341, -344, -330, -54, -57, -44, -359]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12685",
-                "properties": {
-                    "name": "Marzahn-Mitte",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 8.33
-                },
-                "arcs": [
-                    [-350, -362, -358, -353]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12687",
-                "properties": {
-                    "name": "Mehrower Allee",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 5.22
-                },
-                "arcs": [
-                    [362, -355, -357]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "12689",
-                "properties": {
-                    "name": "Ahrensfelde",
-                    "district": "Marzahn-Hellersdorf",
-                    "randomRent": 8.71
-                },
-                "arcs": [
-                    [363, 364, -351, -363, -356]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13051",
-                "properties": {
-                    "name": "Malchow",
-                    "district": "Lichtenberg",
-                    "randomRent": 10.65
-                },
-                "arcs": [
-                    [365, 366, 367, 368, 369, 370]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13053",
-                "properties": {
-                    "name": "Alt-Hohenschönhausen",
-                    "district": "Lichtenberg",
-                    "randomRent": 10.53
-                },
-                "arcs": [
-                    [371, -360, 372, -64, 373, -368]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13055",
-                "properties": {
-                    "name": "Konrad-Wolf-straße",
-                    "district": "Lichtenberg",
-                    "randomRent": 10.21
-                },
-                "arcs": [
-                    [-58, -61, -65, -373]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13057",
-                "properties": {
-                    "name": "Falkenberg",
-                    "district": "Lichtenberg",
-                    "randomRent": 12.99
-                },
-                "arcs": [
-                    [374, -364, -361, -372, 375]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13059",
-                "properties": {
-                    "name": "Wartenberg",
-                    "district": "Lichtenberg",
-                    "randomRent": 8.01
-                },
-                "arcs": [
-                    [376, -376, -367]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13086",
-                "properties": {
-                    "name": "Pistoriusstraße",
-                    "district": "Pankow",
-                    "randomRent": 9.68
-                },
-                "arcs": [
-                    [377, 378, -73, 379]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13088",
-                "properties": {
-                    "name": "Buschallee",
-                    "district": "Pankow",
-                    "randomRent": 7.94
-                },
-                "arcs": [
-                    [380, -369, -374, -63, -71, -74, -379, 381]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13089",
-                "properties": {
-                    "name": "Heinersdorf",
-                    "district": "Pankow",
-                    "randomRent": 11.93
-                },
-                "arcs": [
-                    [382, -382, -378, 383]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13125",
-                "properties": {
-                    "name": "Karow/Buch",
-                    "district": "Pankow",
-                    "randomRent": 14.97
-                },
-                "arcs": [
-                    [384, -371, 385, 386]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13127",
-                "properties": {
-                    "name": "Buchholz",
-                    "district": "Pankow",
-                    "randomRent": 6.37
-                },
-                "arcs": [
-                    [387, 388, 389, 390, -387]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13129",
-                "properties": {
-                    "name": "Blankenburg",
-                    "district": "Pankow",
-                    "randomRent": 10.13
-                },
-                "arcs": [
-                    [-370, -381, -383, -388, -386]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13156",
-                "properties": {
-                    "name": "Niederschönhausen",
-                    "district": "Pankow",
-                    "randomRent": 9.33
-                },
-                "arcs": [
-                    [391, 392, 393, -389]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13158",
-                "properties": {
-                    "name": "Rosenthal",
-                    "district": "Pankow",
-                    "randomRent": 7.7
-                },
-                "arcs": [
-                    [394, -390, -394, 395, 396, 397, 398]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13159",
-                "properties": {
-                    "name": "Blankenfelde",
-                    "district": "Pankow",
-                    "randomRent": 11.05
-                },
-                "arcs": [
-                    [-391, -395, 399, 400]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13187",
-                "properties": {
-                    "name": "Pankow-Mitte",
-                    "district": "Pankow",
-                    "randomRent": 11.6
-                },
-                "arcs": [
-                    [401, -80, 402, 403, -392]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13189",
-                "properties": {
-                    "name": "Neumannstraße",
-                    "district": "Pankow",
-                    "randomRent": 5.6
-                },
-                "arcs": [
-                    [-384, -380, -81, -402]
                 ]
             }, {
                 "type": "Polygon",
@@ -1510,29 +520,7 @@
                 "arcs": [
                     [404, 405, 406, 407, -1, 408, 409]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "13349",
-                "properties": {
-                    "name": "Schillerpark",
-                    "district": "Mitte",
-                    "randomRent": 7.33
-                },
-                "arcs": [
-                    [410, 411, -410, 412]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13351",
-                "properties": {
-                    "name": "Rehberge",
-                    "district": "Mitte",
-                    "randomRent": 6.4
-                },
-                "arcs": [
-                    [413, 414, 415, -413]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "13353",
                 "properties": {
@@ -1565,18 +553,7 @@
                 "arcs": [
                     [418, -83, -418, -407]
                 ]
-            }, {
-                "type": "Polygon",
-                "id": "13359",
-                "properties": {
-                    "name": "Soldiner Straße",
-                    "district": "Mitte",
-                    "randomRent": 8.82
-                },
-                "arcs": [
-                    [-84, -419, -406, 419, -403]
-                ]
-            }, {
+            },  {
                 "type": "Polygon",
                 "id": "13403",
                 "properties": {
@@ -1586,468 +563,6 @@
                 },
                 "arcs": [
                     [420, 421, -411, 422, 423, 424]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13405",
-                "properties": {
-                    "name": "Kurt-Schumacher-Damm",
-                    "district": "Reinickendorf",
-                    "randomRent": 7.49
-                },
-                "arcs": [
-                    [-416, 425, 426, 427, -423]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13407",
-                "properties": {
-                    "name": "Alt-Reinickendorf",
-                    "district": "Reinickendorf",
-                    "randomRent": 6.16
-                },
-                "arcs": [
-                    [428, -397, 429, -412, -422]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13409",
-                "properties": {
-                    "name": "Residenzstraße",
-                    "district": "Reinickendorf",
-                    "randomRent": 6.58
-                },
-                "arcs": [
-                    [-393, -404, -420, -405, -430, -396]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13435",
-                "properties": {
-                    "name": "Märkisches Viertel West",
-                    "district": "Reinickendorf",
-                    "randomRent": 13.19
-                },
-                "arcs": [
-                    [430, 431, 432]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13437",
-                "properties": {
-                    "name": "Alt-Wittenau",
-                    "district": "Reinickendorf",
-                    "randomRent": 5.27
-                },
-                "arcs": [
-                    [433, -433, 434, -398, -429, -421, 435]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13439",
-                "properties": {
-                    "name": "Märkisches Viertel Ost",
-                    "district": "Reinickendorf",
-                    "randomRent": 9.84
-                },
-                "arcs": [
-                    [436, -399, -435, -432]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13465",
-                "properties": {
-                    "name": "Frohnau",
-                    "district": "Reinickendorf",
-                    "randomRent": 14.59
-                },
-                "arcs": [
-                    [437, 438, 439]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13467",
-                "properties": {
-                    "name": "Hermsdorf",
-                    "district": "Reinickendorf",
-                    "randomRent": 9.4
-                },
-                "arcs": [
-                    [440, 441, 442, 443, -438]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13469",
-                "properties": {
-                    "name": "Waidmannslust",
-                    "district": "Reinickendorf",
-                    "randomRent": 12.18
-                },
-                "arcs": [
-                    [-400, -437, -431, -434, 444, -442, 445]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13503",
-                "properties": {
-                    "name": "Heiligensee",
-                    "district": "Reinickendorf",
-                    "randomRent": 6.64
-                },
-                "arcs": [
-                    [-444, 446, 447, 448, 449, -439]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13505",
-                "properties": {
-                    "name": "Konradshöhe",
-                    "district": "Reinickendorf",
-                    "randomRent": 5.63
-                },
-                "arcs": [
-                    [450, 451, 452, 453, -449]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13507",
-                "properties": {
-                    "name": "Alt-Tegel",
-                    "district": "Reinickendorf",
-                    "randomRent": 6.86
-                },
-                "arcs": [
-                    [454, -424, -428, 455, 456, -451, -448]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13509",
-                "properties": {
-                    "name": "Borsigwalde",
-                    "district": "Reinickendorf",
-                    "randomRent": 14.69
-                },
-                "arcs": [
-                    [-445, -436, -425, -455, -447, -443]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13581",
-                "properties": {
-                    "name": "Klosterfelde",
-                    "district": "Spandau",
-                    "randomRent": 10.23
-                },
-                "arcs": [
-                    [457, 458, 459, 460, 461]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13583",
-                "properties": {
-                    "name": "Zeppelinstraße",
-                    "district": "Spandau",
-                    "randomRent": 12.87
-                },
-                "arcs": [
-                    [462, 463, 464, -458, 465]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13585",
-                "properties": {
-                    "name": "Neustadt",
-                    "district": "Spandau",
-                    "randomRent": 13.22
-                },
-                "arcs": [
-                    [466, 467, 468, -464, 469]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13587",
-                "properties": {
-                    "name": "Hakenfelde",
-                    "district": "Spandau",
-                    "randomRent": 12.83
-                },
-                "arcs": [
-                    [-453, 470, -467, 471, 472]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13589",
-                "properties": {
-                    "name": "Falkenhagener Feld",
-                    "district": "Spandau",
-                    "randomRent": 5.49
-                },
-                "arcs": [
-                    [-470, -463, 473, 474, -472]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13591",
-                "properties": {
-                    "name": "Staaken",
-                    "district": "Spandau",
-                    "randomRent": 11.85
-                },
-                "arcs": [
-                    [-466, -462, 475, 476, -474]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13593",
-                "properties": {
-                    "name": "Heerstraße/Wilhelmstraße",
-                    "district": "Spandau",
-                    "randomRent": 5.29
-                },
-                "arcs": [
-                    [477, 478, 479, -476, -461]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13595",
-                "properties": {
-                    "name": "Wilhelmstadt Ost",
-                    "district": "Spandau",
-                    "randomRent": 12.23
-                },
-                "arcs": [
-                    [480, 481, 482, 483, -478, -460]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13597",
-                "properties": {
-                    "name": "Altstadt/Stresow",
-                    "district": "Spandau",
-                    "randomRent": 8.19
-                },
-                "arcs": [
-                    [484, 485, 486, 487, 488, -481, -459, -465, -469]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13599",
-                "properties": {
-                    "name": "Haselhorst",
-                    "district": "Spandau",
-                    "randomRent": 13.34
-                },
-                "arcs": [
-                    [-457, 489, 490, -485, -468, -471, -452]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13627",
-                "properties": {
-                    "name": "Charlottenburg-Nord",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 8.87
-                },
-                "arcs": [
-                    [-415, -417, -89, -110, 491, 492, 493, -426]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "13629",
-                "properties": {
-                    "name": "Siemensstadt",
-                    "district": "Spandau",
-                    "randomRent": 10.61
-                },
-                "arcs": [
-                    [-427, -494, 494, -490, -456]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14050",
-                "properties": {
-                    "name": "Westend-Nordost",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 8.52
-                },
-                "arcs": [
-                    [495, 496, 497, -486, -491, -495, -493]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14052",
-                "properties": {
-                    "name": "Westend-West",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 8.43
-                },
-                "arcs": [
-                    [-498, 498, 499, 500, -487]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14053",
-                "properties": {
-                    "name": "Olympiastadion",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 8.61
-                },
-                "arcs": [
-                    [-501, 501, -488]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14055",
-                "properties": {
-                    "name": "Eichkamp/Heerstraße",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 6.24
-                },
-                "arcs": [
-                    [-502, -500, 502, 503, -482, -489]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14057",
-                "properties": {
-                    "name": "Lietzensee",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 14.68
-                },
-                "arcs": [
-                    [504, -120, -124, -132, 505, -503, -499, -497]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14059",
-                "properties": {
-                    "name": "Schloß",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 7.66
-                },
-                "arcs": [
-                    [-111, -108, -105, -505, -496, -492]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14089",
-                "properties": {
-                    "name": "Gatow/Kladow",
-                    "district": "Spandau",
-                    "randomRent": 11.33
-                },
-                "arcs": [
-                    [506, 507, 508, 509, -479, -484]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14109",
-                "properties": {
-                    "name": "Wannsee",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 5.72
-                },
-                "arcs": [
-                    [510, 511, -509]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14129",
-                "properties": {
-                    "name": "Nikolassee/Schlachtensee",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 14.87
-                },
-                "arcs": [
-                    [512, 513, 514, -511, -508]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14163",
-                "properties": {
-                    "name": "Zehlendorf-Mitte",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 14.99
-                },
-                "arcs": [
-                    [515, 516, 517, 518, -514]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14165",
-                "properties": {
-                    "name": "Zehlendorf-Südwest",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 8.32
-                },
-                "arcs": [
-                    [519, 520, -518]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14167",
-                "properties": {
-                    "name": "Zehlendorf-Südost",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 14.14
-                },
-                "arcs": [
-                    [521, -258, -263, 522, -520]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14169",
-                "properties": {
-                    "name": "Clayallee Süd",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 8.36
-                },
-                "arcs": [
-                    [523, 524, -259, -522, -517]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14193",
-                "properties": {
-                    "name": "Grunewald",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 10.85
-                },
-                "arcs": [
-                    [-131, -129, 525, 526, -524, -516, -513, -507, -483, -504, -506]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14195",
-                "properties": {
-                    "name": "Dahlem",
-                    "district": "Steglitz-Zehlendorf",
-                    "randomRent": 7.98
-                },
-                "arcs": [
-                    [527, -245, -248, -255, -256, -525, -527]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14197",
-                "properties": {
-                    "name": "Rüdesheimer Platz",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 6.07
-                },
-                "arcs": [
-                    [-241, -242, 528, -135]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "14199",
-                "properties": {
-                    "name": "Schmargendorf-West",
-                    "district": "Charlottenburg-Wilmersdorf",
-                    "randomRent": 13.21
-                },
-                "arcs": [
-                    [-529, -528, -526, -136]
                 ]
             }]
         }
