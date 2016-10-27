@@ -27,39 +27,6 @@
                 ]
             }, {
                 "type": "Polygon",
-                "id": "10119",
-                "properties": {
-                    "name": "Rosenthaler Platz",
-                    "district": "Mitte",
-                    "randomRent": 9.4
-                },
-                "arcs": [
-                    [14, 15, 16, -4]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10178",
-                "properties": {
-                    "name": "Hackescher Markt",
-                    "district": "Mitte",
-                    "randomRent": 14.13
-                },
-                "arcs": [
-                    [17, 18, 19, 20, -9, -5, -17]
-                ]
-            }, {
-                "type": "Polygon",
-                "id": "10179",
-                "properties": {
-                    "name": "Jannowitzbrücke",
-                    "district": "Mitte",
-                    "randomRent": 7.59
-                },
-                "arcs": [
-                    [21, 22, 23, 24, -10, -21]
-                ]
-            }, {
-                "type": "Polygon",
                 "id": "10243",
                 "properties": {
                     "name": "Ostbahnhof",
