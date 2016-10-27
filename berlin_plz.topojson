@@ -16,17 +16,6 @@
                 ]
             }, {
                 "type": "Polygon",
-                "id": "10117",
-                "properties": {
-                    "name": "Unter den Linden",
-                    "district": "Mitte",
-                    "randomRent": 5.63
-                },
-                "arcs": [
-                    [8, 9, 10, 11, 12, 13, -6]
-                ]
-            }, {
-                "type": "Polygon",
                 "id": "10243",
                 "properties": {
                     "name": "Ostbahnhof",
