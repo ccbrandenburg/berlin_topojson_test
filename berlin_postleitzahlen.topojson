@@ -10,7 +10,7 @@
                 ]
             }, {
                 "type": "Polygon",
-                "postalcode": 10178,
+                "properties":{"postalcode":"10178"},
                 "arcs": [
                     [8, 9, 10, 11, 12, 13, -6]
                 ]
