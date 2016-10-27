@@ -15,7 +15,7 @@
                 ]
             }, {
                 "type": "Polygon",
-                "postalcode": "10119",
+                "postalcode": 10119,
                 "arcs": [
                     [14, 15, 16, -4]
                 ]
