@@ -60,6 +60,72 @@
                 ]
             }, {
                 "type": "Polygon",
+                "id": "10243",
+                "properties": {
+                    "name": "Ostbahnhof",
+                    "district": "Friedrichshain-Kreuzberg",
+                    "randomRent": 10.52
+                },
+                "arcs": [
+                    [25, 26, 27, 28, -22, -20]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10245",
+                "properties": {
+                    "name": "Ostkreuz",
+                    "district": "Friedrichshain-Kreuzberg",
+                    "randomRent": 12.76
+                },
+                "arcs": [
+                    [29, 30, 31, 32, -28]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10247",
+                "properties": {
+                    "name": "Samariterstraße",
+                    "district": "Friedrichshain-Kreuzberg",
+                    "randomRent": 14.26
+                },
+                "arcs": [
+                    [33, 34, 35, 36, -30, -27, 37]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10249",
+                "properties": {
+                    "name": "Volkspark Friedrichshain",
+                    "district": "Friedrichshain-Kreuzberg",
+                    "randomRent": 8.5
+                },
+                "arcs": [
+                    [38, 39, -38, -26, -19, 40]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10315",
+                "properties": {
+                    "name": "Friedrichsfelde Nord",
+                    "district": "Lichtenberg",
+                    "randomRent": 13.28
+                },
+                "arcs": [
+                    [41, 42, 43, 44, 45]
+                ]
+            }, {
+                "type": "Polygon",
+                "id": "10317",
+                "properties": {
+                    "name": "Rummelsburg",
+                    "district": "Lichtenberg",
+                    "randomRent": 11.3
+                },
+                "arcs": [
+                    [46, -46, 47, 48, 49, 50, 51, -31, -37]
+                ]
+            }, {
+                "type": "Polygon",
                 "id": "10318",
                 "properties": {
                     "name": "Karlshorst",
